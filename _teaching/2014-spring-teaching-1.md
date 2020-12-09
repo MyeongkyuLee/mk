@@ -10,11 +10,4 @@ location: "City, Country"
 
 I taught Physics for freshmen who majored automotive engineering.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
