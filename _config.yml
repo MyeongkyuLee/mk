@@ -229,7 +229,7 @@ defaults:
   # _publicationsandpresentations
   - scope:
       path: ""
-      type: publications
+      type: publicationsandpresentations
     values:
       layout: single
       author_profile: true
